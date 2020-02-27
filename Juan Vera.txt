@@ -1,0 +1,31 @@
+1.-¿cuantas sesiones tiene una clase?, señale cuales somn
+obligatorias y cuales no.Dibuja un ejemplo
+1.-
+2.-
+3.-
+
+2.-Declare un array en java y asignele valores.
+2.1.-¿Como obtengo el primer elemento del array?
+foreach
+2.2.-¿y el ultimo?
+and
+2.3 ¿Con qué estructura de control se itera/recorre un array? de un ejemplo.
+if else foreach
+3. ¿Qué son los request y response?
+response: es un objeto para presentar en la pantalla
+del navegador del cliente el resultado de cualquier
+codigo que hayamos escrito
+request: El objeto request permite el acceso a toda
+informacion que pasa desde el navegador del cliente al servidor.
+4. ¿Qué son los códigos HTTP (200, 400, 500) ?
+200: es un codigo de respuesta del servidor http que nos ofrecera el status
+ante una peticion estandar correcta a la que puede responder sin problemas.
+400: son solicitudes incorrectas cuando un servidor no puede entender una
+solicitud que se ha hecho de el.
+500: es un codigo de estado http muy general que significa que algo
+ha ido mal en el servidor del sitio web, pero el servidor no puede
+ser mas especifico sobre el cual es el problema exacto.
+5. Diferencias entre GET y POST
+get: El get hace que envia los datos usando la url.
+post: Los envia de forma que no podemos verlos(en un segundo plano
+u "ocultos" al usuario).                   
